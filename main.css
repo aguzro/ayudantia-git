@@ -1,1 +1,11 @@
 /* Aquí los estilos*/
+
+/*segundo li con texto de color verde*/
+ul li:nth-child(2){
+	color: green;
+}
+
+/*primer li con texto de tamaño 24*/
+ul li:first-child{
+	font-size: 24px;
+}
